@@ -1,4 +1,4 @@
-## SEGUE UM EXEMPLO COMO EXECUTAR
+## SEGUEM EXEMPLOS DE COMO EXECUTAR...
 
 ## No seu terminal, use o comando ./calculadora.sh para executar o script."
 
